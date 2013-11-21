@@ -1,4 +1,4 @@
-asteroids-bag
+Node starter
 =============
 
-An implementation of a bag tailored to Asteroids
+A good starting point for node projects
